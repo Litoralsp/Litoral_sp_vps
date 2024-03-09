@@ -57,3 +57,4 @@ jobs:
         run: npx envinfo
       - name: Build
         run: ./vcbuild.bat
+        
